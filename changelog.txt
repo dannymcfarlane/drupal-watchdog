@@ -1,0 +1,2 @@
+drupal-watchdog changelog:
+drupal-watchdog: Update changelog 2023-11-02
