@@ -26,3 +26,4 @@ drupal-watchdog: Update changelog 2023-11-25
 drupal-watchdog: Update changelog 2023-11-26
 drupal-watchdog: Update changelog 2023-11-27
 drupal-watchdog: Update changelog 2023-11-28
+drupal-watchdog: Update changelog 2023-11-29
