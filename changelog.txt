@@ -55,3 +55,4 @@ drupal-watchdog: Update changelog 2023-12-24
 drupal-watchdog: Update changelog 2023-12-25
 drupal-watchdog: Update changelog 2023-12-26
 drupal-watchdog: Update changelog 2023-12-27
+drupal-watchdog: Update changelog 2023-12-28
