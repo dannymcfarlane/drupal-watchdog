@@ -85,3 +85,4 @@ drupal-watchdog: Update changelog 2024-01-23
 drupal-watchdog: Update changelog 2024-01-24
 drupal-watchdog: Update changelog 2024-01-25
 drupal-watchdog: Update changelog 2024-01-26
+drupal-watchdog: Update changelog 2024-01-27
